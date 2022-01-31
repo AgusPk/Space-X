@@ -4,6 +4,12 @@
 ## Installation
 ### `git clone https://github.com/AgusPk/Space-X.git`
 
+Copy .env.example
+
+### `cp .env.example .env`
+
+Fill the variables TRELLO_KEY and TRELLO_TOKEN with your trello account credentials
+
 Install dependencies
 ### `npm install`
 
